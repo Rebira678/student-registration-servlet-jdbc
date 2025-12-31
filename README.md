@@ -23,6 +23,11 @@ The project is built using **Java Servlets, JSP, JDBC, MySQL, and Apache Tomcat*
 
 ---
 
+## Screenshot
+![Screenshot](image/img.png)
+
+
+
 ## 📂 Project Features
 
 ### 1️⃣ Student Registration
