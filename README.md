@@ -25,7 +25,8 @@ The project is built using **Java Servlets, JSP, JDBC, MySQL, and Apache Tomcat*
 
 ## Screenshot
 ![Screenshot](image/img.png)
-
+![Screenshot](image/img_1.png)
+![Screenshot](image/img_2.png)
 
 
 ## 📂 Project Features
